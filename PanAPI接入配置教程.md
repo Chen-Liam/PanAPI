@@ -1,6 +1,6 @@
 # PanAPI 接入配置教程
 
-本文参考原语雀教程整理，适用于通过 PanAPI 为 ChatGPT/Codex 桌面端、Claude Desktop 和 Cursor 配置第三方 API。
+本文参考适用于通过 PanAPI 为 ChatGPT/Codex 桌面端、Claude Desktop 和 Cursor 配置第三方 API。
 
 > PanAPI 官网：<https://www.panapi.xyz/>
 
